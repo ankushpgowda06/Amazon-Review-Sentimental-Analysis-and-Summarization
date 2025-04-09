@@ -3,6 +3,7 @@
 ## 🎯 Project Overview  
 This project analyzes customer sentiments from **Amazon product reviews** to better understand consumer feedback. It classifies reviews as **Positive**, **Neutral**, or **Negative**, and presents insights using interactive visualizations and AI-generated summaries. The app is built using **Streamlit** and integrates **OpenAI's GPT model** for review summarization.
 
+📹 **Video Demo**: [https://drive.google.com/your-video-link](https://drive.google.com/file/d/1mpNsm5VRcIFFWCoUgbvt1eqq3TTFUv5h/view?usp=sharing)
 
 ## 📌 Introduction  
 The project focuses on automating sentiment classification of Amazon product reviews and providing visual insights to help brands and customers understand sentiment trends over time.
